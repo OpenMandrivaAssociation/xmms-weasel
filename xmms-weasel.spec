@@ -12,7 +12,6 @@ Group: Sound
 Url: http://xmms-weasel.sourceforge.net
 BuildRequires: xmms-devel
 Requires: xmms
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: chrpath
 
 
