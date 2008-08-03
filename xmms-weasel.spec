@@ -1,6 +1,6 @@
 %define name xmms-weasel
 %define version 0.0.1
-%define release %mkrel 7
+%define release %mkrel 8
 
 Summary: Hide XMMS window automatically
 Name: %{name}
