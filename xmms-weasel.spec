@@ -1,13 +1,13 @@
 %define name xmms-weasel
 %define version 0.0.1
-%define release %mkrel 8
+%define release %mkrel 9
 
 Summary: Hide XMMS window automatically
 Name: %{name}
 Version: %{version}
 Release: %{release}
 Source0: %{name}-%{version}.tar.bz2
-License: GPL
+License: GPLv2+
 Group: Sound
 Url: http://xmms-weasel.sourceforge.net
 BuildRequires: xmms-devel
