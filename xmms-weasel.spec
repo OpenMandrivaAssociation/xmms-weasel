@@ -9,7 +9,7 @@ Release: %{release}
 Source0: %{name}-%{version}.tar.bz2
 License: GPLv2+
 Group: Sound
-Url: http://xmms-weasel.sourceforge.net
+Url: https://xmms-weasel.sourceforge.net
 BuildRequires: xmms-devel
 Requires: xmms
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
